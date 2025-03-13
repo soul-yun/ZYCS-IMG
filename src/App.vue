@@ -1,5 +1,5 @@
 <template>
-  <Header title="骤雨重山图床" desc="拒绝流量劫持，全面使用HTTPS" />
+  <Header title="呜呜呜" desc="呜呜呜" />
   <main><RouterView /></main>
   <Footer />
   <Toaster />
